@@ -12,7 +12,6 @@ const NewMovieForm = ({}) => {
       runningTime,
       genre,
     };
-
     console.log(formData);
   };
 
